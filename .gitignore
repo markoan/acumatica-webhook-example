@@ -358,3 +358,7 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Acumatica util files
+*.lnk
+Solution.bat
