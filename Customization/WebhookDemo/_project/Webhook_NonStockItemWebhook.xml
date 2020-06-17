@@ -1,0 +1,13 @@
+﻿<Webhook>
+    <data-set>
+        <relations format-version="3" relations-version="20160101" main-table="WebHook" />
+        <layout>
+            <table name="WebHook" />
+        </layout>
+        <data>
+            <WebHook>
+                <row WebHookID="c6959853-00b6-49de-ba1a-78cf939da217" Name="NonStockItemWebhook" Handler="WebhookExample.NonStockItemWebhookHandler" IsActive="1" IsSystem="0" RequestLogLevel="2" RequestRetainCount="10" NoteID="b6c386ed-c9ae-ea11-b463-f8281984a372" />
+            </WebHook>
+        </data>
+    </data-set>
+</Webhook>
